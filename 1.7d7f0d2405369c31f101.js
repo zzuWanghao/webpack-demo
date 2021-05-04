@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{6:function(o,n,s){"use strict";s.r(n),n.default=()=>{console.log("我很懒，所以我是懒加载")}}}]);
